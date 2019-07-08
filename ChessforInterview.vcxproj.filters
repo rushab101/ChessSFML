@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\SFML-CHESS-GAME-master\Chess\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\bishop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\ChessBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\graphs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\king.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\knight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\pawn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\piece.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\play.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\queen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\rook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\save.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SFML-CHESS-GAME-master\Chess\utilityBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="win.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\blackBishop.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\blackKing.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\blackKnight.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\blackPawn.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\blackQueen.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\blackRook.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\board.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\Crystal_Project_Player_play.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\gameOver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\gamepad-controller.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\play-button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\refresh-button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\rsz_1images.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\save-disk.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\save-icon-54519.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\whiteBishop.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\whiteKing.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\whiteKnight.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\whitePawn.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\whiteQueen.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\SFML-CHESS-GAME-master\Chess\images\whiteRook.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
