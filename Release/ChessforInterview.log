@@ -1,1 +1,143 @@
-﻿  ChessforInterview.vcxproj -> E:\C++ Projects\ChessforInterview\Release\ChessforInterview.exe
+﻿  main.cpp
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(25,46): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(25,43): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,63): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\save.h(122,57): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(120,50): warning C4244:  'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(120,43): warning C4244:  'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,72): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(170,66): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,72): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(186,66): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,72): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(203,66): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(132,9): warning C4101:  'alience': unreferenced local variable
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\ChessBoard.h(132,17): warning C4101:  'position': unreferenced local variable
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(27,46): warning C4244:  'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(27,43): warning C4244:  'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,63): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(167,57): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,63): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(172,57): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,58): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:         with
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:             T=int
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:         ]
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:         and
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:         [
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:             T=float
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\play.h(187,51): warning C4244:         ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\utilityBox.h(107): warning C4715: 'Identity::checkAlliance': not all control paths return a value
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\piece.h(57): warning C4715: 'Piece::pieceAlliance': not all control paths return a value
+E:\C++ Projects\SFML-CHESS-GAME-master\Chess\utilityBox.h(131): warning C4715: 'Identity::identifier': not all control paths return a value
+  All 637 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChessforInterview.vcxproj -> E:\C++ Projects\ChessforInterview\Release\ChessforInterview.exe
